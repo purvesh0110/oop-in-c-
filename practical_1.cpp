@@ -17,8 +17,8 @@ cin>>name;
 }
 void student :: put_data()
 {
-cout<<"student roll number: "<<roll_no;
-cout<<"student name : "<<name<<endl;
+cout<<"\nstudent roll number: "<<roll_no ;
+cout<<"\nstudent name : "<<name <<endl;
 }
 int main ()
 {
