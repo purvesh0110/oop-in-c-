@@ -8,9 +8,9 @@ Class : S.E. B. TECH. C.T.I.S.
 
 P.R.N. : 210105121012 
 
-School : School Of Computer Science , Sandip University Nashik
+School : School Of Computer Science , Sandip University , Nashik
 
-Course Name : O.O.P.  
+Course Name : OBJECT ORIENTED PROGRAMMING IN C++
 
 Course Code : 17YCT302
 
